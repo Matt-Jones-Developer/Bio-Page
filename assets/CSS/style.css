@@ -255,9 +255,16 @@ main {
     h1 {
         font-size: 48px;
     }
+    
+    p {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    
     .container {
         padding: 0px;
     }
+    
     .header .container {
         flex-direction: column;
         padding-top: 2rem;
