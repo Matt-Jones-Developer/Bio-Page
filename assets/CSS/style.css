@@ -298,6 +298,10 @@ main {
         padding-top: 1rem;
         padding-bottom: 2rem;
     }
+    
+    article {
+        padding-left: .5rem;
+        padding-right: .5rem;
 
     .footer p {
         padding-top: 1.5rem;
