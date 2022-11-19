@@ -278,8 +278,13 @@ main {
     .navbar li:last-child {
         margin-right: .5rem;
     }
+    
+    .logo {
+        display: block;
+    }
 
     .logo a {
+        display: inline;
         font-size: 16px;
         margin-left: .5rem;
     }
