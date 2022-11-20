@@ -313,17 +313,21 @@ main {
         padding-bottom: 2rem;
     }
     
+    section p {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    
     article {
         padding-left: .5rem;
         padding-right: .5rem;
     }
     
     article h3 {
-    padding-left: 5px;
+        padding-left: 5px;
     }
 
     .footer p {
-        padding-top: .7rem;
+        padding-top: .8rem;
     }
 }
 
