@@ -265,6 +265,10 @@ main {
         padding-right: 5px;
     }
     
+    ul {
+        padding-left: 1rem;
+    }
+    
     .container {
         padding: 0px;
     }
