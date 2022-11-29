@@ -242,10 +242,9 @@ article h3, p {
     justify-content: space-between;
 }
 
-/* .box img {
+.box img {
     width: 800px;
-    src: url(/assets/images/ESP_KH_mod_diag.png);
-} */
+}
 
 .guitar {
     width: 100%;
