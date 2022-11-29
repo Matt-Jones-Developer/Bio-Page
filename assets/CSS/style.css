@@ -244,6 +244,7 @@ article h3, p {
 
 .box img {
     width: 800px;
+    object-fit: contain;
 }
 
 .guitar {
