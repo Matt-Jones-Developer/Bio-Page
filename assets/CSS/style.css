@@ -250,7 +250,7 @@ article h3, p {
 .guitar {
     width: 100%;
     height: 600px;
-    background-image: url(./assets/images/ESP_KH_mod_diag.png);
+    background-image: url(assets/images/ESP_KH_mod_diag.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -351,7 +351,7 @@ article h3, p {
     .guitar {
         width: 100%;
         height: 1100px;
-        background-image: url(./assets/images/ESP_KH_mod2.png);
+        background-image: url(assets/images/ESP_KH_mod2.png);
         background-repeat: no-repeat;
         background-size: contain;
     }
